@@ -24,13 +24,9 @@ Only **Admin** can create new tasks, edit existing ones, update details, and del
 
 Admin can later edit a task to change its status, update details, or delete it completely. These actions instantly notify the assigned user.
 
-<div style="display:flex;gap:10px;flex-wrap:wrap">
-  ![Create task form](images/4.png)
-  ![Task list page](images/5.png)
-  ![Admin edit task page](images/6.png)
-</div>
-
----
+  ![Create task form](https://raw.githubusercontent.com/Ramaryal33/Task-Management-System/0d8d518e6b499616fb8a5db6259f4614c244b430/4.png)
+  ![Task list page](https://github.com/Ramaryal33/Task-Management-System/blob/master/5.png?raw=true)
+  ![Admin edit task page](https://github.com/Ramaryal33/Task-Management-System/blob/master/6.png?raw=true)
 
 ### Step 3: Real-time notification to the assigned user
 
@@ -51,20 +47,13 @@ This is all powered by SignalR, so everything updates live without refreshing th
 - Create a task assigned to that user.
 - Then watch the user’s window: you’ll see the popup, console message, badge update, and localStorage storing the pending task count.
 - Also check that SignalR shows as “Connected” in the console.
-
-<div style="display:flex;gap:10px;flex-wrap:wrap">
-  ![Notification alert popup](images/7.png)
-  ![Console showing message](images/8.png)
-  ![SignalR connection status](images/9.png)
-</div>
-
-<div style="display:flex;gap:10px;flex-wrap:wrap">
-  ![LocalStorage pending tasks](images/10.png)
-  ![Notification badge updated](images/11.png)
-  ![Two browser windows setup](images/12 a.png)
-</div>
-
----
+  
+  ![Notification alert popup](https://github.com/Ramaryal33/Task-Management-System/blob/master/7.png?raw=true)
+  ![Console showing message](https://github.com/Ramaryal33/Task-Management-System/blob/master/8.png?raw=true)
+  ![SignalR connection status](https://github.com/Ramaryal33/Task-Management-System/blob/master/9.png?raw=true)
+  ![LocalStorage pending tasks](https://github.com/Ramaryal33/Task-Management-System/blob/master/10.png?raw=true)
+  ![Notification badge updated](https://github.com/Ramaryal33/Task-Management-System/blob/master/11.png?raw=true)
+  ![Two browser windows setup](https://github.com/Ramaryal33/Task-Management-System/blob/master/12%20a.png?raw=true)
 
 ### Step 4: Admin deletes a task
 
@@ -75,9 +64,8 @@ The Admin can delete tasks. When this happens, the assigned user sees:
 
 Again, this happens instantly through SignalR.
 
-<div style="display:flex;gap:10px;flex-wrap:wrap">
-  ![Delete task confirmation](images/13.png)
-  ![Popup alert about deleted task](images/14.png)
-  ![Console message about deleted task](images/15.png)
-  ![Another deleted task message](images/16.png)
-</div>
+  ![Delete task confirmation](https://github.com/Ramaryal33/Task-Management-System/blob/master/13.png?raw=true)
+  ![Popup alert about deleted task](https://github.com/Ramaryal33/Task-Management-System/blob/master/14.png?raw=true)
+  ![Console message about deleted task](https://github.com/Ramaryal33/Task-Management-System/blob/master/15.png?raw=true)
+  ![Another deleted task message](https://github.com/Ramaryal33/Task-Management-System/blob/master/16.png?raw=true)
+
