@@ -73,3 +73,17 @@ Again, this happens instantly through SignalR.
 I add rough data seperate to show 
 ![json file](https://github.com/Ramaryal33/Task-Management-System/blob/57bbb0f3f8f69db5926e539a55583eaf37ec854f/data%202.png)
 ![json file](https://github.com/Ramaryal33/Task-Management-System/blob/75f86fab3a4c877ca0324a0ae6230d6dd270d67f/data.json.png)
+
+
+### Step 6: Real-time Updates with SignalR
+This application uses SignalR to enable real-time communication between the Admin and Users.
+
+📡 How SignalR Works:
+- A SignalR Hub (NotificationHub.cs) is created on the server.
+- When a task is created, updated, or deleted by the Admin, a message is sent through the hub.
+- The assigned user receives the message instantly via SignalR, without refreshing the page.
+
+![Single R ](https://github.com/Ramaryal33/Task-Management-System/blob/bf4b5a50bcd4c826b9e727b52732ebe82fdb6307/singler%201.png)
+![Single R ](https://github.com/Ramaryal33/Task-Management-System/blob/bf4b5a50bcd4c826b9e727b52732ebe82fdb6307/single%20r%202.png)
+![Single R ](https://github.com/Ramaryal33/Task-Management-System/blob/bf4b5a50bcd4c826b9e727b52732ebe82fdb6307/single%20r%203.png)
+
