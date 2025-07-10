@@ -16,11 +16,7 @@ There's also a **Logout** button which removes your login info from localStorage
 
   ![image alt](https://raw.githubusercontent.com/Ramaryal33/Task-Management-System/0c20c68cc3c45eb4c4bf0eea8b7d653160cb4df7/1.png)
   ![image alt](https://raw.githubusercontent.com/Ramaryal33/Task-Management-System/14244c345ff257c37ffd21dec21df47b2c85bcaf/2.png)
-
-
-[![Extra login screenshot](images/3.png)](https://raw.githubusercontent.com/Ramaryal33/Task-Management-System/14244c345ff257c37ffd21dec21df47b2c85bcaf/2.png)
-
----
+  ![image alt](https://raw.githubusercontent.com/Ramaryal33/Task-Management-System/49cc61c584a5e996243efd0202a464dc4ec8fd8c/3.png)
 
 ### Step 2: Admin creates, edits, updates, and deletes tasks
 
