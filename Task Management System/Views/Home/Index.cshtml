@@ -1,0 +1,140 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4">Welcome to the Task Management System</h1>
+    <p class="lead">Manage and assign tasks with real-time notifications using SignalR.</p>
+</div>
+
+<hr class="my-4" />
+
+<div class="container mt-4 bg-light p-4 rounded">
+    <h2> Step-by-Step Guide</h2>
+
+    <h4>Step 1: Login as Admin or User (with Logout option)</h4>
+    <p>
+        When you open the system, you'll see a <strong>dropdown menu</strong> where you can select
+        to login as <strong>Admin</strong>, <strong>User1</strong>, <strong>User2</strong>, etc.
+        Your selected user is saved in your browser's localStorage, so the system
+        remembers who you are.
+    </p>
+    <p>
+        There's also a <strong>Logout</strong> button which removes your login info from localStorage,
+        allowing you to safely switch users or end the session.
+    </p>
+    <div class="row">
+        <div class="col-md-6">
+            <img src="~/images/1.png" class="img-fluid rounded shadow-sm mb-3" alt="Login selection page" />
+        </div>
+        <div class="col-md-6">
+            <img src="~/images/2.png" class="img-fluid rounded shadow-sm mb-3" alt="Login dropdown and logout button" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mx-auto">
+            <img src="~/images/3.png" class="img-fluid rounded shadow-sm mb-3" alt="Extra login screenshot" />
+        </div>
+    </div>
+
+    <h4>Step 2: Admin creates, edits, updates, and deletes tasks</h4>
+    <p>
+        Only <strong>Admin</strong> can create new tasks, edit existing ones, update details, and delete tasks.
+        On the "Create Task" page, Admin fills in the title, description, deadline date & time,
+        and selects which user to assign the task to. Once submitted, the assigned user receives
+        a real-time notification.
+    </p>
+    <p>
+        Admin can later edit a task to change its status, update details, or delete it completely.
+        These actions instantly notify the assigned user.
+    </p>
+
+    <div class="row">
+        <div class="col-md-4">
+            <img src="~/images/4.png" class="img-fluid rounded shadow-sm mb-3" alt="Create task form" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/5.png" class="img-fluid rounded shadow-sm mb-3" alt="Task list page" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/6.png" class="img-fluid rounded shadow-sm mb-3" alt="Admin edit task page" />
+        </div>
+    </div>
+
+    <h4>Step 3: Real-time notification to the assigned user</h4>
+    <p>
+        As soon as a task is created by Admin, the assigned user will instantly see:
+        <ul>
+            <li>A popup alert showing the task message</li>
+            <li>A direct console message like: <code>You have been assigned a new task by Admin</code></li>
+            <li>A notification badge showing the number of pending tasks</li>
+        </ul>
+        The system also saves the number of pending tasks in <strong>localStorage</strong>
+        so it remembers and displays the correct badge count even after a page refresh.
+        <br />
+        This is all powered by SignalR, so everything updates live without refreshing the page.
+    </p>
+    <p>
+        # To test this properly:
+        <br />
+        - Open two browser windows (or two different browsers).
+        <br />
+        - Login as <strong>Admin</strong> in one, and as <strong>User1</strong> or <strong>User2</strong> in the other.
+        <br />
+        - Create a task assigned to that user.
+        <br />
+        - Then watch the user’s window: you’ll see the popup, console message, badge update,
+        and localStorage storing the pending task count.
+        <br />
+        - Also check that SignalR shows as “Connected” in the console.
+    </p>
+
+    <div class="row">
+        <div class="col-md-4">
+            <img src="~/images/7.png" class="img-fluid rounded shadow-sm mb-3" alt="Notification alert popup" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/8.png" class="img-fluid rounded shadow-sm mb-3" alt="Console showing message" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/9.png" class="img-fluid rounded shadow-sm mb-3" alt="SignalR connection status" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <img src="~/images/10.png" class="img-fluid rounded shadow-sm mb-3" alt="LocalStorage pending tasks" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/11.png" class="img-fluid rounded shadow-sm mb-3" alt="Notification badge updated" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/12 a.png" class="img-fluid rounded shadow-sm mb-3" alt="Two browser windows setup" />
+        </div>
+    </div>
+
+    <h4>Step 4: Admin deletes a task</h4>
+    <p>
+        The Admin can delete tasks. When this happens, the assigned user sees:
+        <ul>
+            <li>A popup alert about the deleted task</li>
+            <li>A console message like: <code>Task "Task title" was deleted by Admin</code></li>
+        </ul>
+        Again, this happens instantly through SignalR.
+    </p>
+
+    <div class="row">
+        <div class="col-md-4">
+            <img src="~/images/13.png" class="img-fluid rounded shadow-sm mb-3" alt="Delete task confirmation" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/14.png" class="img-fluid rounded shadow-sm mb-3" alt="Popup alert about deleted task" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/15.png" class="img-fluid rounded shadow-sm mb-3" alt="Console message about deleted task" />
+        </div>
+
+        <div class="col-md-4">
+            <img src="~/images/16.png" class="img-fluid rounded shadow-sm mb-3" alt="Another deleted task message" />
+        </div>
+    </div>
+</div>

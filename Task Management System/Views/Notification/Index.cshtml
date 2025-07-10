@@ -1,0 +1,45 @@
+﻿@model List<TaskManagementSystem.Web.Models.TaskItem>
+@{
+    ViewData["Title"] = "My Notifications";
+}
+
+<h2 class="mb-4">Notifications</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No pending tasks assigned to you.</div>
+    return;
+}
+
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Assigned&nbsp;By</th>
+            <th>Deadline</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            var urgent = (t.Deadline - DateTime.Now).TotalHours <= 48;
+            <tr class="@(urgent ? "table-danger" : "")">
+                <td>@t.Title</td>
+                <td>@t.Description</td>
+                <td>@t.CreatedBy</td>
+                <td>@t.Deadline:g</td>
+                <td>@t.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        // Clear badge count when viewing notifications
+        localStorage.setItem("pendingCount", "0");
+        document.getElementById("notifBadge")?.classList.add("d-none");
+    </script>
+}

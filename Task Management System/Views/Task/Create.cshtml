@@ -1,0 +1,91 @@
+﻿@model TaskManagementSystem.Web.Models.TaskItem
+@{
+    bool isEdit = Model?.Id > 0;
+    ViewData["Title"] = isEdit ? "Edit Task" : "Create Task";
+    var users = ViewBag.Users as List<TaskManagementSystem.Web.Models.User>;
+}
+
+<h2 class="mb-4">@ViewData["Title"]</h2>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <form asp-action="@(isEdit ? "Edit" : "Create")" method="post">
+            @Html.AntiForgeryToken()
+            <input type="hidden" name="CurrentUser" value="" />
+            @if (isEdit)
+            {
+                <input type="hidden" asp-for="Id" />
+            }
+
+            <div class="mb-3">
+                <label class="form-label">Title</label>
+                <input asp-for="Title" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Description</label>
+                <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col">
+                    <label class="form-label">Deadline Date</label>
+                    <input name="DeadlineDate" type="date" class="form-control"
+                           value="@Model?.Deadline.ToString("yyyy-MM-dd")" />
+                </div>
+                <div class="col">
+                    <label class="form-label">Deadline Time</label>
+                    <input name="DeadlineTime" type="time" class="form-control"
+                           value="@Model?.Deadline.ToString("HH:mm")" />
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Created By</label>
+                <select asp-for="CreatedBy" id="createdBySelect" class="form-select">
+                    <option value="">-- Select --</option>
+                    @foreach (var u in users)
+                    {
+                        <option value="@u.Name">@u.Name</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Assign To</label>
+                <select asp-for="AssignedTo" class="form-select">
+                    <option value="">-- Select --</option>
+                    @foreach (var u in users)
+                    {
+                        <option value="@u.Name">@u.Name</option>
+                    }
+                </select>
+            </div>
+
+            @if (isEdit)
+            {
+                <div class="mb-3">
+                    <label class="form-label">Status</label>
+                    <select asp-for="Status" class="form-select">
+                        <option value="Pending">Pending</option>
+                        <option value="Completed">Completed</option>
+                    </select>
+                </div>
+            }
+
+            <button type="submit" class="btn btn-success w-100">
+                @(isEdit ? "Update Task" : "Create Task")
+            </button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const u  = localStorage.getItem("currentUser");
+            const el = document.getElementById("createdBySelect");
+            if (u && el) el.value = u;
+        });
+    </script>
+}

@@ -1,0 +1,105 @@
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.csproj.AssemblyReference.cache
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.AssemblyInfoInputs.cache
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.AssemblyInfo.cs
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.csproj.CoreCompileInputs.cache
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.RazorAssemblyInfo.cache
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.RazorAssemblyInfo.cs
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.sourcelink.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\appsettings.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Task Management System.staticwebassets.runtime.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Task Management System.staticwebassets.endpoints.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Task Management System.exe
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Task Management System.deps.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Task Management System.runtimeconfig.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Task Management System.dll
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Task Management System.pdb
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\scopedcss\bundle\Task Management System.styles.css
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\scopedcss\projectbundle\Task Management System.bundle.scp.css
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\0j52ziput6-nav5gk99p8.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\xoj2z2fq4u-61n19gt1b8.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\jysau2kmcv-b3evy44epu.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\2bdqj5nsdq-bqjiyaj88i.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\mbeyre8rmp-c2jlpeoesf.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\c5tr236rz0-erw9l3u2r3.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\bsg6x1d2h6-aexeepp0ev.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\6jsxu05uhs-d7shbmvgxk.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\swenc80r9e-ausgxo2sd3.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\7kfxy2vly0-k8d9w2qqmf.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\b0a3szb3sl-cosvhxvwiu.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\uqabsa7srd-ub07r2b239.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\hodox11ecd-fvhpjtyr6v.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\rg7k5fjc86-b7pk76d08c.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\l3nih8kfou-fsbi9cje9m.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\vha385ftus-rzd6atqjts.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\pb2d1l99uh-ee0r1s7dh0.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\gbwu6l5ody-dxx9fxp4il.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\oxh7nbnpbi-jd9uben2k1.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\kfnssiq0mj-khv3u5hwcm.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\cd072g23pa-r4e9w2rdcm.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\e8pigsoenr-lcd1t2u6c8.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\vhzubrpm5u-c2oey78nd0.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\bglhu7gvc4-tdbxkamptv.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\kwi5sy0ol2-j5mq2jizvt.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\5s9zoilb91-06098lyss8.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\ib5p1k60s9-nvvlpmu67g.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\p55dw4sh1l-s35ty4nyc5.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\4vrzmchdpd-pj5nd1wqec.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\t1btys0xm6-46ein0sx1k.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\vusafg6vrm-v0zj4ognzu.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\9ctxvdwybt-37tfw0ft22.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\64bqw0t1st-hrwsygsryq.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\z717t94igh-pk9g2wxc8p.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\cd1grw3lqq-ft3s53vfgj.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\q72zg5bo4x-6cfz1n2cew.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\9gnvj1oacq-6pdc2jztkx.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\8n094oiclv-493y06b0oq.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\w25y3ude4v-iovd86k7lj.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\3vhqxo0o4k-vr1egmr9el.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\ml9uujr0zo-kbrnm935zg.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\24tdk0j6nb-jj8uyg4cgr.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\0q54xslpqa-y7v9cxd14o.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\mdcfek47kj-notf2xhcfb.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\fjnqmw7ztq-h1s4sie4z3.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\3ji6ssmaht-63fj8s7r0e.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\x4oz4o1o0d-0j3bgjxly4.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\f4bjpvlrmm-47otxtyo56.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\wl9k2e4a63-4v8eqarkd7.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\rjwdrkcd7w-356vix0kms.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\uh0hjr5jbl-83jwlth58m.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\gy8nl1pdzu-mrlpezrjn3.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\f3qtyl5a7w-lzl9nlhx6b.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\y98x9vwoeo-ag7o75518u.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\y4fgdklz3u-x0q3zqp4vz.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\xz7hg3oouq-0i3buxo5is.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\gncuh5588f-o1o13a6vjx.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\8lv3qcf2af-ttgo8qnofa.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\jshfhkusnw-2z0ns9nrw6.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\7bdirmpnw5-muycvpuwrr.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\9ctzz9zbts-87fc7y1x7t.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\vzlzml64z5-mlv21k5csn.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\23s7n7g661-eogr1pyykn.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\pwqdjw6ywf-eogr1pyykn.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets\msbuild.Task Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets\msbuild.Task Management System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets\msbuild.build.Task Management System.props
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Task Management System.props
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Task Management System.props
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Man.07DBC0C8.Up2Date
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.dll
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\refint\Task Management System.dll
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.pdb
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\Task Management System.genruntimeconfig.cache
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\ref\Task Management System.dll
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\obj\Debug\net9.0\compressed\gda61vgb61-88jd7wf7rw.gz
+C:\Users\nitro5\Desktop\.Net Projects\TaskManagementSystem.Web\Task Management System\bin\Debug\net9.0\Data\tasks.json

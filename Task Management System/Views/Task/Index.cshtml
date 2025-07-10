@@ -1,0 +1,55 @@
+﻿@model List<TaskManagementSystem.Web.Models.TaskItem>
+@using TaskManagementSystem.Web.Models
+@{
+    var me = Context.Request.Cookies["currentUser"] ?? "";
+}
+
+<h2 class="mb-4">Task List</h2>
+
+@if (me == "Admin")
+{
+    <a id="createTaskBtn" class="btn btn-primary" asp-action="Create">+ Create New Task</a>
+}
+
+
+@if (TempData["SuccessMessage"] is string msg)
+{
+    <div class="alert alert-success">@msg</div>
+}
+
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Assigned To</th>
+            <th>Deadline</th>
+            <th>Status</th>
+            @if (me == "Admin")
+            {
+                <th>Action</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            var urgent = (t.Deadline - DateTime.Now).TotalHours <= 48;
+            <tr class="@(urgent?"table-danger":"")">
+                <td>@t.Title</td>
+                <td>@t.Description</td>
+                <td>@t.AssignedTo</td>
+                <td>@t.Deadline:g</td>
+                <td>@t.Status</td>
+                @if (me == "Admin")
+                {
+                    <td>
+                        <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@t.Id">Edit</a>
+                        <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@t.Id">Del</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+

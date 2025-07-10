@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\data\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\data\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\views\\task\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\views\\task\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\views\\notification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\views\\notification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\task management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\task management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|c:\\users\\nitro5\\desktop\\.net projects\\taskmanagementsystem.web\\task management system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF5C6E0-A0AB-4EEA-A344-22260728BB11}|Task Management System\\Task Management System.csproj|solutionrelative:task management system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tasks.json",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Data\\tasks.json",
+              "RelativeDocumentMoniker": "Task Management System\\Data\\tasks.json",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Data\\tasks.json",
+              "RelativeToolTip": "Task Management System\\Data\\tasks.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T23:33:08.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Notification\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task Management System\\Views\\Notification\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Notification\\Index.cshtml",
+              "RelativeToolTip": "Task Management System\\Views\\Notification\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T17:06:09.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Task Management System\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Task Management System\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:04:52.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\wwwroot\\js\\auth.js",
+              "RelativeDocumentMoniker": "Task Management System\\wwwroot\\js\\auth.js",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\wwwroot\\js\\auth.js",
+              "RelativeToolTip": "Task Management System\\wwwroot\\js\\auth.js",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-09T16:21:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "Task Management System\\appsettings.json",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\appsettings.json",
+              "RelativeToolTip": "Task Management System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T15:35:22.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Task Management System.csproj",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Task Management System.csproj",
+              "RelativeDocumentMoniker": "Task Management System\\Task Management System.csproj",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Task Management System.csproj",
+              "RelativeToolTip": "Task Management System\\Task Management System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T02:37:13.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Task Management System\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Task Management System\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-09T02:35:11.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Task\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task Management System\\Views\\Task\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Task\\Delete.cshtml",
+              "RelativeToolTip": "Task Management System\\Views\\Task\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T00:10:15.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Task Management System\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Task Management System\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-08T14:40:21.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task Management System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task Management System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T14:38:16.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Task Management System\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Task Management System\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T14:38:05.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task Management System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task Management System\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwH0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T14:35:47.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Task Management System\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Task Management System\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T14:32:16.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task Management System\\Views\\Task\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Task\\Create.cshtml",
+              "RelativeToolTip": "Task Management System\\Views\\Task\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T12:13:28.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task Management System\\Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "Task Management System\\Views\\Task\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T12:12:58.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Task Management System\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Task Management System\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAA+wKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:11:11.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Task Management System\\Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Task Management System\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:10:22.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Task Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Program.cs",
+              "RelativeToolTip": "Task Management System\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:09:35.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Task Management System\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Services\\TaskService.cs",
+              "RelativeToolTip": "Task Management System\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:08:47.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Task Management System\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Task Management System\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:07:49.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Task Management System\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\TaskManagementSystem.Web\\Task Management System\\Models\\User.cs",
+              "RelativeToolTip": "Task Management System\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:05:45.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

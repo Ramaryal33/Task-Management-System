@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Task Manager</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body class="d-flex flex-column min-vh-100">
+
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark shadow-sm">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">Task Manager</a>
+
+                <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-end" id="nav">
+                    <ul class="navbar-nav me-3">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-controller="Task" asp-action="Index">Tasks</a>
+                        </li>
+
+                        <!-- Notifications link with badge (now uses NotificationController) -->
+                        <li class="nav-item position-relative">
+                            <a class="nav-link text-white" asp-controller="Notification" asp-action="Index">
+                                Notifications
+                                <span id="notifBadge"
+                                      class="position-absolute top-0 start-100 translate-middle
+                                     badge rounded-pill bg-danger d-none"></span>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <!-- Login / Logout dropdown -->
+                    <div class="dropdown">
+                        <button id="userBtn"
+                                class="btn btn-outline-light dropdown-toggle"
+                                data-bs-toggle="dropdown">
+                            Login
+                        </button>
+
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="#" onclick="login('Admin')">Admin</a></li>
+                            <li><a class="dropdown-item" href="#" onclick="login('User1')">User1</a></li>
+                            <li><a class="dropdown-item" href="#" onclick="login('User2')">User2</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container my-4 flex-grow-1">
+        @RenderBody()
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3 mt-auto">
+        &copy; 2025 ‑ Task Manager
+    </footer>
+
+    <!--  Scripts  -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.12/signalr.min.js"></script>
+    <script src="~/js/auth.js"></script>
+    <script>
+        const me = localStorage.getItem("currentUser") ?? "";
+        const hubUrl = `/notificationHub?user=${encodeURIComponent(me)}`;
+        const connection = new signalR.HubConnectionBuilder().withUrl(hubUrl).build();
+
+        // ✅ Listen for notification alert
+        connection.on("ReceiveNotification", msg => {
+            alert(msg);
+
+            const badge = document.getElementById("notifBadge");
+            const newCount = (parseInt(badge.textContent || "0", 10) + 1).toString();
+            badge.textContent = newCount;
+            badge.classList.remove("d-none");
+
+            localStorage.setItem("pendingCount", newCount);
+        });
+
+        // ✅ Listen for badge adjustment (e.g. task completed)
+        connection.on("BadgeAdjust", delta => {
+            const badge = document.getElementById("notifBadge");
+            const newCount = Math.max(0, parseInt(badge.textContent || "0", 10) + delta);
+            badge.textContent = newCount || "";
+            badge.classList.toggle("d-none", newCount === 0);
+            localStorage.setItem("pendingCount", newCount.toString());
+        });
+
+        // ✅ NEW: Listen for console-only messages
+        connection.on("ReceiveMessage", msg => {
+            console.log(msg);
+        });
+
+        connection.start().then(() => console.log("SignalR connected"));
+
+        // Restore count on page load
+        document.addEventListener("DOMContentLoaded", () => {
+            const badge = document.getElementById("notifBadge");
+            const stored = localStorage.getItem("pendingCount");
+            if (stored && stored !== "0") {
+                badge.textContent = stored;
+                badge.classList.remove("d-none");
+            }
+        });
+    </script>
+
+
+
+    @await RenderSectionAsync("Scripts", false)
+</body>
+</html>
