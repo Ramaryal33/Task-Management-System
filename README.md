@@ -20,7 +20,7 @@ There's also a **Logout** button which removes your login info from localStorage
   ![Login dropdown and logout button](images/2.png)
 </div>
 
-![Extra login screenshot](images/3.png)
+[![Extra login screenshot](images/3.png)](https://raw.githubusercontent.com/Ramaryal33/Task-Management-System/14244c345ff257c37ffd21dec21df47b2c85bcaf/2.png)
 
 ---
 
