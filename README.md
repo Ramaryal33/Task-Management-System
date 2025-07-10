@@ -15,7 +15,8 @@ When you open the system, you'll see a **dropdown menu** where you can select to
 There's also a **Logout** button which removes your login info from localStorage, allowing you to safely switch users or end the session.
 
 <div style="display:flex;gap:10px;flex-wrap:wrap">
-  ![image alt](https://github.com/Ramaryal33/Task-Management-System/blob/0c20c68cc3c45eb4c4bf0eea8b7d653160cb4df7/1.png)
+  ![image alt](https://raw.githubusercontent.com/Ramaryal33/Task-Management-System/0c20c68cc3c45eb4c4bf0eea8b7d653160cb4df7/1.png)
+
   ![Login dropdown and logout button](images/2.png)
 </div>
 
