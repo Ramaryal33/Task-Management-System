@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the Task Management System
+Welcome to the Task Management System ( Real Time Communication)
 
 Manage and assign tasks with real-time notifications using SignalR.
 
